@@ -1,0 +1,23 @@
+.header {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: var(--header-stroke);
+
+    background-color: var(--primary-white-color);
+}
+
+.header__container {
+    display: flex;
+    align-items: center;
+    height: 80px;
+}
+
+.container__nav {
+    display: flex;
+    align-items: center;
+}
+
+.header__logo {
+    margin-right: 93px;
+    color: var(--logo-color);
+}

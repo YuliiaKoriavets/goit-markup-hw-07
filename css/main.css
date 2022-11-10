@@ -689,7 +689,6 @@ body {
   border: none;
   border-radius: 4px;
   text-align: center;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   color: var(--primary-white-color);
   background-color: var(--accent-color);
   font-family: inherit;
@@ -912,6 +911,7 @@ body {
   display: flex;
   margin: 0 auto;
   padding: 10px 52px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
 .header {
@@ -1042,6 +1042,7 @@ body {
 
 .hero__button {
   padding: 10px 32px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
 .features__item {
@@ -1238,6 +1239,7 @@ body {
   display: flex;
   padding: 10px 28px;
   align-items: center;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
 .subscription__icon {
